@@ -1,0 +1,17 @@
+[
+  {
+    "name": "home",
+    "src": "images/jahy.jpg",
+    "alt": "qiqi jahy"
+  },
+  {
+    "name": "about",
+    "src": "images/jahy_sad.jpg",
+    "alt": "jahy is very sad"
+  },
+  {
+    "name": "portfolio",
+    "src": "images/yume_nikki.gif",
+    "alt": "you spin me right round baby"
+  }
+]
